@@ -304,8 +304,10 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	
 	background: url(../img/bg1.jpg) no-repeat top center;
+    -webkit-filter: grayscale(50%);
+    filter: grayscale(50%);
+
 }
 
 #intro.intro {
