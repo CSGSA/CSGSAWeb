@@ -1,6 +1,5 @@
 # CSGSA Website
 
-http://kyeongan.cpl.uh.edu/csgsa-web/
 
 ### What's included
 
